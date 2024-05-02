@@ -1,0 +1,27 @@
+.footerContainer{
+    background-color: #091734;
+    color: white;
+
+}
+.logo{
+    width: 200px;
+}
+.icon{
+    width: 35px;
+    height: 20px;
+}
+.feature{
+    width: 90px;
+    height: 80px;
+}
+.subHeading{
+    color:#074d80;
+    font-weight: 700;
+}
+.bottomFooter{
+    background-color: #cfd8dc;
+}
+.hidocBold{
+    font-weight: 700;
+    color: black;
+}

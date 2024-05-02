@@ -1,0 +1,34 @@
+.activeButton{
+    background-color: #53C6DD;
+}
+.drugName{
+    color:#53C6DD ;
+    cursor: pointer;
+}
+.drugDetailsHeading{
+    color:#53C6DD ;
+    padding: 10px 0px;
+    margin-bottom: 0px;
+    font-size: 24px;
+}
+.drugList {
+    /* border: 1px solid #ccc; */
+    padding: 10px 0px;
+    height: 320px;
+
+  }
+  .DetialContainer{
+    height: 320PX;
+    
+   
+  }
+  .drugDetails {
+    /* border: 1px solid #ccc; */
+    padding: 10px;
+    width: 70%;
+
+    margin: auto;
+  }
+  .notactive{
+    cursor: pointer;
+  }
